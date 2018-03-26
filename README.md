@@ -1,2 +1,2 @@
-  Unity 3D Multiplayer Scence Setup 
+  Unity 3D Multiplayer Scene Setup 
 - Under construction...
